@@ -1,0 +1,12 @@
+# class files
+*.class
+
+# project files
+bin/
+.settings/
+.classpath
+.project
+
+# MAC OS
+
+.DS_Store
