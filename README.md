@@ -26,6 +26,6 @@ The server supports the following commands:-
 
 # Contributors
 
-Austin Vargason - Commands, Distance Vector Algorithm, Testing
-Carlos - README, Topology, Testing, Routing Table
-Mayank Saboo - Commands, Distance Vector Algorithm, Testing
+* Austin Vargason - Commands, Distance Vector Algorithm, Testing
+* Carlos - README, Topology, Testing, Routing Table
+* Mayank Saboo - Commands, Distance Vector Algorithm, Testing
