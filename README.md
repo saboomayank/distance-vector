@@ -23,3 +23,9 @@ The server supports the following commands:-
 * display
 * disable server-id
 * crash
+
+# Contributors
+
+Austin Vargason - Commands, Distance Vector Algorithm, Testing
+Carlos - README, Topology, Testing, Routing Table
+Mayank Saboo - Commands, Distance Vector Algorithm, Testing
